@@ -21,9 +21,9 @@ Students are encouraged to follow the below timeline to ensure timely completion
 
 | Week    | Activity |
 | :-------- | :------------------------------------------ |
-| 1-5 April | Prototype Development (Identify needed software/hardware, find appropriate resources, begin implementation).|
-| 8-12 April | Continue the development of the prototype.|
-| 15-19 April | Project Idea Pitches. Prototype evaluation.|
+| 1-5 April | Start prototype development and proposal writing.|
+| 8-12 April | Continue the development of the prototype and proposal writing.|
+| 15-19 April | Project Idea Pitches. Prototype evaluation and continue proposal writing.|
 | 22-26 April | Project enhancement based on feedback. Preliminary results from the prototype.|
 | 29 April - 3 May | Finalize and submit proposal, prototype, and a prototype demo video.|
 
