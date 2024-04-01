@@ -2,7 +2,7 @@
 
 ## Semester: Spring 2024
 
-## DUE: by 11:59PM on 3 May 2024
+## Final Proposal and Prototype DUE: by 11:59PM on 3 May 2024
 
 This repository contains materials for the proposed project of your own idea, including project proposal with references to literature related to the proposed project, and the implemented prototype with data, if relevant, and all steps necessary to run the prototype. Your project proposal is to be written in the `project_proposal.md` document and must contain all sections provided in the `project_proposal.md` template and described below. __As you complete each of the below sections in this document, please be sure to remove all preamble text so that it does not appear in your work.__
 
@@ -17,13 +17,14 @@ Double majors need to select a project idea that incorporates both of their majo
 
 ## Timeline
 
-Students are encouraged to follow the below timeline to ensure timely completion of their project. All students must present their proposed project in class on April 15th and 17th. The pitch presentation slides must be finalized by 1:30PM on 15th April. The final prototype, including a demo video, and the proposal must be submitted by 11:59PM on 3rd May 2024.
+Students are encouraged to follow the below timeline to ensure timely completion of their project. **All students must present their proposed project in class on April 15th and 17th. The pitch presentation slides must be finalized by 1:30PM on 15th April.** The final prototype, including a demo video, and the proposal must be submitted by 11:59PM on 3rd May 2024.
 
-1-5 April | Prototype Development (Identify needed software/hardware, find appropriate resources, begin implementation).
-8-12 April | Continue the development of the prototype.
-15-19 April | Project Idea Pitches. Prototype evaluation.
-22-26 April | Project enhancement based on feedback. Preliminary results from the prototype.
-29 April - 3 May | Finalize and submit proposal, prototype, and a prototype demo video.
+| -------- | ------------------------------------------ |
+| 1-5 April | Prototype Development (Identify needed software/hardware, find appropriate resources, begin implementation).|
+| 8-12 April | Continue the development of the prototype.|
+| 15-19 April | Project Idea Pitches. Prototype evaluation.|
+| 22-26 April | Project enhancement based on feedback. Preliminary results from the prototype.|
+| 29 April - 3 May | Finalize and submit proposal, prototype, and a prototype demo video.|
 
 ## Requirements
 
