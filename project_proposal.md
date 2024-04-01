@@ -35,3 +35,7 @@ TODO: Discuss the outcomes of your project in this section. Depending on the pro
 ## Conclusions and Future Work
 
 TODO: Summarize your work and outline future steps needed to complete to take the project to the next stage (for example, if you were to continue with this project in 600/610). You must also address ethical implications of your project, especially as pertains to the public release or use of your software or methods.
+
+## References
+
+TODO: Add references in the [ACM style](https://www.acm.org/publications/authors/reference-formatting). All references must be cited in the proposal.
