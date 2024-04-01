@@ -12,7 +12,7 @@ This document is to contain your project proposal. __As you complete each of the
 
 ## Project Title: Enter The Name Of Your Project
 
-TODO: Here, think of an interesting name of the work that bring a freshness and excitement to the area of this project. Consider using a name that carries some information about what the project and provides some hint at what the project does without being too wordy.
+TODO: Create an interesting title for your proposed project that bring a freshness and excitement to the area of this project. Consider using a name that carries some information about what the project and provides some hint at what the project does without being too wordy.
 
 ---
 
@@ -34,4 +34,4 @@ TODO: Discuss the outcomes of your project in this section. Depending on the pro
 
 ## Conclusions and Future Work
 
-Summarize your work and outline future steps needed to complete to take the project to the next stage (for example, if you were to continue with this project in 600/610). You must also address ethical implications of your project, especially as pertains to the public release or use of your software or methods.
+TODO: Summarize your work and outline future steps needed to complete to take the project to the next stage (for example, if you were to continue with this project in 600/610). You must also address ethical implications of your project, especially as pertains to the public release or use of your software or methods.
