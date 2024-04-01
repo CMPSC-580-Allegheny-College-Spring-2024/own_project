@@ -70,7 +70,7 @@ these requirements.
   - [ ] The proposal has the correct format created through the use of Markdown and includes the sections outlined in the provided template
   - [ ] The title of the project is both interesting and appropriate
   - [ ] The project proposal cites at least ten references, with five references being published, peer-reviewed articles
-  - [ ] The project proposal consists of at least `1500` words
+  - [ ] The project proposal consists of at least `2000` words
   - [ ] The project proposal follows a logical flow at the level of sections,
     subsections, and individual paragraphs
   - [ ] The project proposal includes appropriate visual aids, which fall under the broad

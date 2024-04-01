@@ -23,7 +23,7 @@
   - description: Proposal contains a minimum number of required words
     check: CountFileWords
     options:
-      count: 1500
+      count: 2000
       exact: false
 - src/README.md:
   - description: Ensure that the README.md file exists in the src/ directory
