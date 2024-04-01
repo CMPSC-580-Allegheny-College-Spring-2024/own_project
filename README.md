@@ -38,7 +38,7 @@ To complete this assignment, you are required to:
 
 ### Prototype
 
-While the proof-of-concept prototype does not have to fully implement the artifact of the proposed project, it needs to contribute to the project goals and it must clearly demonstrate the feasibility of the project. The prototype needs to also produce some results that you can examine and discuss. For example, if you propose a creation of a specific software, your proof-of-concept prototype might implement some but not all of its features. Then, you can conduct evaluation (e.g., testing) and small set of experiments to produce results for discussion.
+While the proof-of-concept prototype does not have to fully implement the artifact of the proposed project, it needs to contribute to the project goals and it must clearly demonstrate the feasibility of the project. The prototype needs to also produce some results that you can examine and discuss. For example, if you propose a creation of a specific software, your proof-of-concept prototype might implement some but not all of its features. Then, you can conduct evaluation (e.g., testing) and small set of experiments to produce preliminary results for discussion.
 
 ### Prototype Demo Video
 
@@ -125,3 +125,27 @@ The project proposal is required to contain the following five sections:
   - [ ] The conclusions and future Work section discusses the impact of the proposed research project
   - [ ] The conclusions and future Work outlines, with sufficient depth and detail, further and future work that is necessary to fully complete the proposed project
   - [ ] The conclusions and future Work includes an literature/evidence- or results-based appraisal of ethical issues related to the proposed research
+
+## GatorGrade
+
+For immediate feedback on submissions, we will be using Gator Grade to inform the of missing components in the submission. As you submit, you will notice that there is a thick red X that will change to a green check mark when all components have been included in the submission. You are encouraged to click on the red X to find a listing of the components to address.
+
+You can check the baseline writing and commit requirements for this assignment by running the department's assignment checking `gatorgrade` tool. To use `gatorgrade`, you first need to make sure you have Python3 installed (type `python --version` to check). If you do not have Python installed, please see:
+
+- [Setting Up Python on Windows](https://realpython.com/lessons/python-windows-setup/)
+- [Python 3 Installation and Setup Guide](https://realpython.com/installing-python/)
+- [How to Install Python 3 and Set Up a Local Programming Environment on Windows 10](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-windows-10)
+
+Then, if you have not done so already, you need to install `gatorgrade`:
+
+- First, [install `pipx`](https://pypa.github.io/pipx/installation/)
+- Then, install `gatorgrade` with `pipx install gatorgrade`
+
+Finally, you can run `gatorgrade`: `gatorgrade --config config/gatorgrade.yml`
+
+## Seeking Assistance
+
+* Extra resources for using Markdown include;
++ [Markdown Tidbits](https://www.youtube.com/watch?v=cdJEUAy5IyA)
++ [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* Do not forget to use the above git commands to push your work to the cloud for the instructor to grade your assignment. You can go to your GitHub repository using your browser to verify that your files have been submitted. Please see the TL’s or the instructor if you have any questions about assignment submission.
